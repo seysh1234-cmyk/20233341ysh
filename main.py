@@ -1,1 +1,1 @@
-20233341 yangsehyun
+print("20233341 yangsehyun")
